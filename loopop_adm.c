@@ -1,6 +1,5 @@
-// CS201 Assignment 4: Optimization of a loop.
+// Optimization of a loop.
 //
-// This is your starting code.
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -123,5 +122,5 @@ int main (void)
     return 0;
 }
 
-                                                                   87,23         53%
+                                                      
                           
